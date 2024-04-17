@@ -1,0 +1,26 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "ffi",
+      "rootUri": "file:///Users/elih/.pub-cache/hosted/pub.dartlang.org/ffi-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/elih/.pub-cache/hosted/pub.dartlang.org/path-1.8.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "ffitest",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    }
+  ],
+  "generated": "2022-05-20T21:22:34.880173Z",
+  "generator": "pub",
+  "generatorVersion": "2.17.0-202.0.dev"
+}
